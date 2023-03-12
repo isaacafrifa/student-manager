@@ -1,3 +1,5 @@
+### Environment varibles ###
+environment.properties
 *.env
 
 HELP.md
